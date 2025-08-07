@@ -1,4 +1,4 @@
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/Beiro22?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Beiro22?style=social"> &nbsp;&nbsp; <img alt="ManuelBeiro-MB | Count Views" src="https://enemo786q3svfle.m.pipedream.net" />
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/Beiro22?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Beiro22?style=social"> &nbsp;&nbsp; 
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Manuel+Beiro+%3C3;MB+is+me!!!;Welcome+to+my+profile!" alt="Title"></img>
